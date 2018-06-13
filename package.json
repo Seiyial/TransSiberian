@@ -1,0 +1,10 @@
+{
+  "name": "TransSiberian",
+  "version": "0.1.0",
+  "description": "Convert your source code between hard tabs (tab-spacing) and soft tabs (using spaces) in one command. Ignores included",
+  "main": "index.js",
+  "repository": "https://github.com/Seiyial/TransSiberian",
+  "author": "Seiyial <seiyial@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
